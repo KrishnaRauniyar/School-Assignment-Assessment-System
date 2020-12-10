@@ -8,3 +8,5 @@ Team member:
 
 Project Abstract:
 This project is a classroom platform for teacher and student for the online study. Teacher can create classroom, assign assessment, assignment and study material (videos, files) in organized way. 
+
+This is the frontend part of the web app and for the bankend here is the link https://github.com/KrishnaRauniyar/iw-acad-school-assignment-and-assesment-system-be
